@@ -1,9 +1,11 @@
-Package: jp.soh.freepip
-Name: FreePIP
+Package: com.sini921.freepip
+Name: FreePIP【rootless】
 Version: 0.0.3
+icon: https://sini921.github.io/repo/sileodepiction/icon/freepip.png
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/freepip/js.json
 Architecture: iphoneos-arm
-Description: FreePIP is a tweak to un-snap and scale the view of Picture-in-Picture on iOS unlimitedly.
+Description: 任意调整画中画大小和位置
 Maintainer: Soh Satoh
 Author: Soh Satoh
-Section: Tweaks
+Section: 越狱插件
 Depends: mobilesubstrate (>= 0.9.5000)
