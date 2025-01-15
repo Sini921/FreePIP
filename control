@@ -1,11 +1,11 @@
 Package: com.sini921.freepip
 Name: FreePIP【rootless】
-Version: 0.0.3
+Version: 0.0.4
 icon: https://sini921.github.io/repo/sileodepiction/icon/freepip.png
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/freepip/js.json
 Architecture: iphoneos-arm
-Description: 任意调整画中画大小和位置
-Maintainer: Soh Satoh
-Author: Soh Satoh
+Description: 任意调整画中画大小和位置，长按画中画窗口切换模式
+Maintainer: Soh Satoh & SINI
+Author: Soh Satoh & SINI
 Section: 越狱插件
 Depends: mobilesubstrate (>= 0.9.5000)
