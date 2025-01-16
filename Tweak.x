@@ -43,7 +43,7 @@ static UIView *getContentView(SBPIPContainerViewController *self) {
     UIView *view = getContentView(self);
     view.layer.borderWidth = 2.0;
     view.layer.cornerRadius = 13.0;
-    view.layer.masksToBounds = YES;
+    view.layer.masksToBounds = NO;
     view.layer.borderColor = locked ? [UIColor blueColor].CGColor : [UIColor grayColor].CGColor;
 }
 
